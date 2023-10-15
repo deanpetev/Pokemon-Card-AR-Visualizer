@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="primeape" size="0.640000 0.853907" />
+    <ImageTarget name="klefki" size="0.640000 0.902680" />
+    <ImageTarget name="electrode" size="0.640000 0.900553" />
+    <ImageTarget name="tyranitar" size="0.640000 0.905928" />
+  </Tracking>
+</QCARConfig>
